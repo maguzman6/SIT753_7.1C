@@ -16,7 +16,7 @@ pipeline {
 
         stage('Code Analysis') {
             steps {
-                echo 'Task: Static code analysis and linting'
+                echo 'Task: Static code analysis and linting '
             }
         }
 
